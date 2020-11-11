@@ -1,0 +1,7 @@
+# Language_Converter input / output :
+
+user in. {('file' : 'document') = null
+
+sys. in. ('document' : 'conversion process') = true
+
+} user ('document' : 'translation' ) 

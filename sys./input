@@ -1,7 +1,0 @@
-# Language_Converter input :
-
-user in. {("file" : document) 
-
-sys. in. ("document" : 'conversion process')
-
-} user ("document" : 'translation' )
