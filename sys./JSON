@@ -1,4 +1,4 @@
-# Language_Converter input / output :
+# Language_Converter JSON input / output :
 
 user in. {('file' : 'document') = null
 
