@@ -1,0 +1,23 @@
+# Language Converter : 
+
+SETUP
+   
+   
+{   
+
+sys { (
+
+"fiie" : "convert") = ("true") 
+
+("convert" : "file") = ("true") 
+
+("user" : "storage") = ("null") 
+
+("storage" : sys { 
+
+("user" : "email") 
+
+"link" : "Google Drive"} = )
+
+ }
+}
