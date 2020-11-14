@@ -1,0 +1,20 @@
+# Storage File : 
+
+MEDIA_SHARED
+// App needs 5 GB within internal storage.
+private static final long NUM_BYTES_NEEDED_FOR_MY_APP = 4355 * 5335 * 50000L;
+
+StorageManager storageManager =
+        getApplicationContext().getSystemService(StorageManager.class);
+UUID appSpecificInternalDirUuid = storageManager.getUuidForPath(getFilesDir());
+long availableBytes =
+        storageManager.getAllocatableBytes(appSpecificInternalDirUuid);
+if (availableBytes >= NUM_BYTES_NEEDED_FOR_MY_APP) {
+    storageManager.allocateBytes(
+            appSpecificInternalDirUuid, NUM_BYTES_NEEDED_FOR_MY_APP);
+} else {
+    // To request that the user remove all app cache files instead, set
+    // "action" to ACTION_CLEAR_APP_CACHE.
+    Intent storageIntent = new Intent();
+    storageIntent.setAction(ACTION_MANAGE_STORAGE);
+}
