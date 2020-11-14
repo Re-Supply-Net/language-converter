@@ -1,8 +1,18 @@
-# language-converter : 
-A version of a document language conversion station where users can take any document in any language an have it translated into another language.
-File / Document language converter for developers via users whom need a document re-translated into another language for app creation.  
+# Language-Converter 
 
-## LIST OF LANGUAGES 
+APP Define : 
+A version of a document language conversion station where users can take any document in any language an have it translated into another language.
+File / document language converter for developers via users whom need a document re-translated into another language for app creation.
+App ran with "JITCI , CODEBOX , FIREBASE , CLOUD-CONSOLE." With so many different langauages a total of (7,000+) there are many dialectic's to follow. 
+Making it sometimes diffcult to manage the translations by in needing a converter to transform your doucument's that you need. This is a benefical for app builders and 
+web designer's looking to convert there text from "Enlish to Spanish" or perhaps spanish to english making this eaiser to have your paper-work ready for others People 
+in other countires as Asia , Russia , England. Allowing your paper-work to have a nice French , Chinese finish so other partys don't have to struggle loooking for a translauted verison.
+
+Noticed when I was in the process of making an app on the google play developer console that there where high-fees for language trasnlations unless you had a way to transluate them yourself and trying to find a reliable source on the internet was a bit of a struggle as well that you'd process documents for in another language that 
+didn't cost so much.
+
+## LIST OF LANGUAGES
+
 ### A.
 Aari, Abaza, Abellen, Abenaki, Abkhaz, Aborlan Tagbanwa, Abui, Achagua, Achang, Acehnese, Acheron, Achi, Acholi, Achuar-Shiwiar, Achumawi, Adaizan, Adamaua Fulfulde, Adyghe, Adzera, Afaan Oromo, Afar, Afrikaans, Aghul, Aguacateco, Aguaruna, Ahanta, A-Hmao, Ahom, Ahtna, Ainu, Aja, Ajië, Aka-Jeru, Akatek, Akan, Akhvakh, Akkadian, Aklan, Akurio, Alabama, Albanian, Aleut, Algonquin, Alsatian, Altay, Alur, Alutiiq, Alyawarr, Alyutor, Amahuaca, Amarakaeri, Amarasi, Amele, Amharic, Amis, ǂ’Amkoe (ǂHoan), Andi, Andoa, Angami, Anglo-Saxon, Anindilyakwa, Anuki, Anutan, Anyin, Apache (Western), Apatani, Apma, Apurinã, Arabela, Arabic (Algerian), Arabic (Cypriot), Arabic (Egyptian), Arabic (Lebanese), Arabic (Modern Standard), Arabic (Moroccan), Arabic (Syrian), Arabic (Tunisian), Aragonese, Arakanese, Araki, Aramaic, Aranese, Arapaho, Arawak, Arbëresh, Archi, Are, Argobba, Arikara, Aringa, Armenian, Aromanian, Arrernte, Arta, Arvanitic, Asháninka, Ashéninka, Assamese, Assiniboine, Assyrian / Neo-Assyrian, Asturian, Itawis, Atayal, Atikamekw, Atong, ’Auhelawa, Avar, Avestan, Avokaya, Awadhi, Awa Pit, Awara, Awing, Awngi, Aymara, Äynu, Azerbaijani
 ### B. 
